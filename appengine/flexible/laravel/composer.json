@@ -1,9 +1,0 @@
-{
-    "require-dev": {
-        "symfony\/process": "~2.8|~3.0",
-        "monolog\/monolog": "^1.19",
-        "guzzlehttp\/guzzle": "^6.2",
-        "google/cloud-tools": "^0.6",
-        "paragonie/random_compat": " ^2.0"
-    }
-}

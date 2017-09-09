@@ -1,8 +1,0 @@
-runtime: php
-env: flex
-
-runtime_config:
-  document_root: web
-
-env_variables:
-  WHITELIST_FUNCTIONS: libxml_disable_entity_loader
